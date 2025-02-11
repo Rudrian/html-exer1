@@ -8,7 +8,7 @@
 }
 
 body {
-  background: url('../material/escola/banner.png') no-repeat center center fixed;
+  background: url('banner.png') no-repeat center center fixed;
   background-size: 100% 85%;
   background-position: 0px 130px;
   margin: 0;
